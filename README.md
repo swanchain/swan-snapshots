@@ -23,7 +23,7 @@ https://docs.swanchain.io/bulders/swan-node
 
 
 ## Snapshots
-If you're a prospective or current SWAN Node operator and would like to restore from a snapshot to save time on the initial sync, it's possible to always get the latest available snapshot of the Swan chain on mainnet by using the following CLI commands. The snapshots are updated every two weeks.
+If you're a prospective or current SWAN Node operator and would like to restore from a snapshot to save time on the initial sync, it's possible to always get the latest available snapshot of the Swan chain on mainnet by using the following CLI commands. The snapshots are updated every month.
 
 ## Restoring from snapshot
 In the home directory of your SWAN Node, create a folder(`$SWAN_NODE_DATA`). If you already have this folder, remove it to clear the existing state and recreate it. Next, run the following code and wait for the operation to complete.
